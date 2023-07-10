@@ -15,6 +15,9 @@ You will give unbiased and factual comments that will either tell the developer 
 
 #### To run the program
 
-```
+```sh
 node calculateShippingAndDiscount.js
 ```
+
+> Please Note
+> The tax rate is `1.1`
